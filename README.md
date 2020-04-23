@@ -1,8 +1,10 @@
 # ACER V5 471P HACKINTOSH MOJAVE
 ## ACER V5 471P HACKINTOSH MOJAVE
+![Pic](https://github.com/iskakfatoni/ACER-V5-471P-HACKINTOSH-MOJAVE/blob/master/Picture/WhatsApp%20Image%202020-04-24%20at%2005.10.11.jpeg)
 ![Pic](https://github.com/iskakfatoni/ACER-V5-471P-HACKINTOSH-MOJAVE/blob/master/Picture/94490547_10218598019800171_1907879873666351104_o.jpg)
+![Pic](https://github.com/iskakfatoni/ACER-V5-471P-HACKINTOSH-MOJAVE/blob/master/Picture/94887712_10218598198564640_1057920530281136128_o.jpg)
 
-Laptop Acer Aspire V5-471P
+###Laptop Acer Aspire V5-471P
 - Intel Core i3 3217u
 - IGPU IHD4000 work
 - Audio Realtek AL269 work
