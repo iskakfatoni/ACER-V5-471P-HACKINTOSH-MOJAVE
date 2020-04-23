@@ -1,6 +1,7 @@
 # ACER V5 471P HACKINTOSH MOJAVE
 ## ACER V5 471P HACKINTOSH MOJAVE
-![Alt text](relative/path/to/img.jpg?raw=true "Title")
+![Pic](https://github.com/iskakfatoni/ACER-V5-471P-HACKINTOSH-MOJAVE/blob/master/Picture/94490547_10218598019800171_1907879873666351104_o.jpg)
+
 Laptop Acer Aspire V5-471P
 - Intel Core i3 3217u
 - IGPU IHD4000 work
